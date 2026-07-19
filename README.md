@@ -1,2 +1,35 @@
-# General-NPOIHelper
+﻿# NPOIHelper
 
+A .NET Framework class library providing convenience extension methods on top of [NPOI](https://github.com/nissl-lab/npoi) to simplify creating and writing Excel spreadsheets programmatically.
+
+**Initiated:** 2021-04-09 · **Framework:** .NET Framework 4.8
+
+---
+
+## Overview
+
+Working with NPOI directly requires several steps to write a single cell value. `NPOIHelper` wraps this into a single overloaded `SetCellValue` call.
+
+---
+
+## API
+
+All methods are extension methods on `NPOI.SS.UserModel.ISheet`.
+
+```csharp
+sheet.SetCellValue(0, 0, "Name");        // string
+sheet.SetCellValue(1, 0, 42);            // int
+sheet.SetCellValue(2, 0, 98.5);          // double
+sheet.SetCellValue(3, 0, true);          // bool
+sheet.SetCellValue(4, 0, DateTime.Now);  // DateTime
+
+IRow row = sheet.AddRow(rowIndex);       // get or create row
+```
+
+---
+
+## Dependencies
+
+| Package | Version |
+|---------|---------|
+| NPOI | 2.5.2 |
