@@ -1,0 +1,11 @@
+C:\Users\windo\OneDrive\Documents\Development\General\NPOIHelper\obj\Debug\NPOIHelper.csproj.CoreCompileInputs.cache
+C:\Users\windo\OneDrive\Documents\Development\General\NPOIHelper\bin\Debug\NPOIHelper.dll
+C:\Users\windo\OneDrive\Documents\Development\General\NPOIHelper\bin\Debug\NPOIHelper.pdb
+C:\Users\windo\OneDrive\Documents\Development\General\NPOIHelper\bin\Debug\NPOI.dll
+C:\Users\windo\OneDrive\Documents\Development\General\NPOIHelper\bin\Debug\NPOI.OOXML.dll
+C:\Users\windo\OneDrive\Documents\Development\General\NPOIHelper\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\windo\OneDrive\Documents\Development\General\NPOIHelper\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\windo\OneDrive\Documents\Development\General\NPOIHelper\obj\Debug\NPOIHelper.csproj.CopyComplete
+C:\Users\windo\OneDrive\Documents\Development\General\NPOIHelper\obj\Debug\NPOIHelper.dll
+C:\Users\windo\OneDrive\Documents\Development\General\NPOIHelper\obj\Debug\NPOIHelper.pdb
+C:\Users\windo\OneDrive\Documents\Development\General\NPOIHelper\obj\Debug\NPOIHelper.csproj.AssemblyReference.cache

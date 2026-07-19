@@ -1,0 +1,50 @@
+{
+  "CurrentSnapshotId": "20260405125519_0a313603",
+  "PreviousSnapshotId": null,
+  "IsChanged": false,
+  "ComparisonNote": null,
+  "Changes": [],
+  "DependencyEdgeChanges": [],
+  "KnowledgeChanges": [
+    {
+      "PackageId": "NPOI",
+      "ResolvedVersion": "2.5.2",
+      "DeterminedUtc": "2026-04-05T12:55:19.3416985+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "2.3.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "2.7.6",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "2.7.6",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 2.7.6."
+      },
+      "Summary": "Newer stable version available: 2.7.6. Development status is now Active. Remediation guidance changed."
+    }
+  ]
+}
