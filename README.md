@@ -39,3 +39,8 @@ IRow row = sheet.AddRow(rowIndex);       // get or create row
 ---
 
 > This library depends on [NPOI](https://github.com/nissl-lab/npoi) (Apache 2.0). See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+
+## Requirements
+
+- Visual Studio 2017 or later, .NET Framework 4.8
+
