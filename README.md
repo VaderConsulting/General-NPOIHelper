@@ -1,9 +1,8 @@
-﻿# NPOIHelper
+# NPOIHelper
+
+A .NET Framework class library of NPOI extension methods that simplify creating and writing Excel spreadsheets. Working with NPOI directly takes several steps per cell; NPOIHelper wraps that into overloaded SetCellValue calls.
 
 **Source last updated:** 2021-04-05
-
-A .NET Framework class library providing convenience extension methods on top of [NPOI](https://github.com/nissl-lab/npoi) to simplify creating and writing Excel spreadsheets programmatically.
-
 **Initiated:** 2021-04-09 · **Framework:** .NET Framework 4.8
 
 ---
